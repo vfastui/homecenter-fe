@@ -25,10 +25,9 @@ html, body, #app {
 }
 
 .main-content {
-    border: 1px #e5e6eb;
-    background: #fff;
-    border-radius: 4px;
-    padding: 15px;
+    width: 1400px;
+    margin: 0 auto;
+    //background: #fff;
 }
 
 h3 {
